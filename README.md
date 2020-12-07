@@ -1,5 +1,5 @@
 # Mid_term_machine_learning
-Requirements
+1. Requirements:
 
 pip install gensim
 
@@ -11,3 +11,9 @@ pip install nltk
 
 import nltk
 nltk.download('punkt')
+
+2. Run:
+
+python make_dict.py
+
+python train_logictis.py
